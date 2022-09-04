@@ -4,10 +4,10 @@ As part of my training as a web developer, I had for mission to realize, with th
 
 ## Meet the team
 
-[@MarthL](https://github.com/MarthL)
-[@Enzo](https://github.com/enzoran1)
-[@Emilie](https://github.com/Rouyem)
-[@Alex](https://github.com/Alexandre12021982)
+[@MarthL](https://github.com/MarthL) <br>
+[@Enzo](https://github.com/enzoran1) <br>
+[@Emilie](https://github.com/Rouyem) <br>
+[@Alex](https://github.com/Alexandre12021982) <br>
 
 ### Prerequisites
 
