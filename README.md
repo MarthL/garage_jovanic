@@ -34,8 +34,15 @@ This project isn't actually online, you can only see this project using localhos
 
 ### Part 1. Database Vizualisation
 
+We designed a full database scheme with Loop in purpose of predicting all features of our web application. This database also need a lot of relations, that's why we used SQL for this project. We also need to understand all the features to predict the administrator access for the staff of the garage. 
 <img src="./mcd.png"/>
 
 ### Part 2. Prototype Design
 
+In order to have the entire graphic charter validated by the client, we have issued a complete layout before development, developed through the AdobeXD software with a prototyping system allowing it to interact as if it were on the original site so that it fully validates all the work done to date 
+
 <img src="image_2022-09-04_200444807.png"/>
+
+### Part 3. Development 
+
+We were 4 developers for this project. Each weeks, we organized a meeting where we discuss about all the progress we made. We also used Trello to memorize all ideas. We finished after 2 months this project entierly. We also secured this project with administration interface that allows super-admin to add new ads, sales with CRUD administration tool. 
