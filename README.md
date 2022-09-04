@@ -19,7 +19,7 @@ The things you need before installing the software.
 
 ```
 $ MVC architectur
-$ Php/mySql
+$ Php/MySQL
 $ HTML/CSS with responsive from scratch (no library as bootstrap) 
 ```
 
