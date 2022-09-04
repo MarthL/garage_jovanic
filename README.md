@@ -36,3 +36,6 @@ This project isn't actually online, you can only see this project using localhos
 
 <img src="./mcd.png"/>
 
+### Part 2. Prototype Design
+
+<img src="image_2022-09-04_200444807.png"/>
