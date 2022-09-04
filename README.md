@@ -35,12 +35,13 @@ This project isn't actually online, you can only see this project using localhos
 ### Part 1. Database Vizualisation
 
 We designed a full database scheme with Loop in purpose of predicting all features of our web application. This database also need a lot of relations, that's why we used SQL for this project. We also need to understand all the features to predict the administrator access for the staff of the garage. 
+<br>
 <img src="./mcd.png"/>
 
 ### Part 2. Prototype Design
 
-In order to have the entire graphic charter validated by the client, we have issued a complete layout before development, developed through the AdobeXD software with a prototyping system allowing it to interact as if it were on the original site so that it fully validates all the work done to date 
-
+In order to have the entire graphic charter validated by the client, we have issued a complete layout before development, developed through the AdobeXD software with a prototyping system allowing it to interact as if it were on the original site so that it fully validates all the work done to date.
+<br>
 <img src="image_2022-09-04_200444807.png"/>
 
 ### Part 3. Development 
