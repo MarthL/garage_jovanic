@@ -4,9 +4,7 @@ As part of my training as a web developer, I had for mission to realize, with th
 
 ## Meet the team
 
-<a href="https://github.com/remarkablemark/html-react-parser/graphs/contributors">
-  <img src="https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false">
-</a>
+[Continbutor]([URL to navigate](https://github.com/MarthL))
 
 ### Prerequisites
 
