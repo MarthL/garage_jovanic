@@ -28,3 +28,8 @@ This project isn't actually online, you can only see this project using localhos
 
 * Master: We just merge all our progress in master branch
 * Members (Enzo, Alex, Emilie, Martin) : Each contributor of this project had his own branch. We also provided some help for issues between us. Each contributors worked on a specific feature each week. We validate all the merge request after meeting each weeks.
+
+### Part 1. Database Vizualisation
+
+<img src="./mcd.png"/>
+
